@@ -1,0 +1,11 @@
+D:\sbogu\Documents\Repos\Visual Studio 2017\SpaASMRVers2\backend\SpaASMRBackend\SpaASMRBackend\bin\Debug\netcoreapp2.0\SpaASMRBackend.deps.json
+D:\sbogu\Documents\Repos\Visual Studio 2017\SpaASMRVers2\backend\SpaASMRBackend\SpaASMRBackend\bin\Debug\netcoreapp2.0\SpaASMRBackend.runtimeconfig.json
+D:\sbogu\Documents\Repos\Visual Studio 2017\SpaASMRVers2\backend\SpaASMRBackend\SpaASMRBackend\bin\Debug\netcoreapp2.0\SpaASMRBackend.runtimeconfig.dev.json
+D:\sbogu\Documents\Repos\Visual Studio 2017\SpaASMRVers2\backend\SpaASMRBackend\SpaASMRBackend\bin\Debug\netcoreapp2.0\SpaASMRBackend.dll
+D:\sbogu\Documents\Repos\Visual Studio 2017\SpaASMRVers2\backend\SpaASMRBackend\SpaASMRBackend\obj\Debug\netcoreapp2.0\SpaASMRBackend.csprojResolveAssemblyReference.cache
+D:\sbogu\Documents\Repos\Visual Studio 2017\SpaASMRVers2\backend\SpaASMRBackend\SpaASMRBackend\obj\Debug\netcoreapp2.0\SpaASMRBackend.csproj.CoreCompileInputs.cache
+D:\sbogu\Documents\Repos\Visual Studio 2017\SpaASMRVers2\backend\SpaASMRBackend\SpaASMRBackend\obj\Debug\netcoreapp2.0\SpaASMRBackend.AssemblyInfoInputs.cache
+D:\sbogu\Documents\Repos\Visual Studio 2017\SpaASMRVers2\backend\SpaASMRBackend\SpaASMRBackend\obj\Debug\netcoreapp2.0\SpaASMRBackend.AssemblyInfo.cs
+D:\sbogu\Documents\Repos\Visual Studio 2017\SpaASMRVers2\backend\SpaASMRBackend\SpaASMRBackend\bin\Debug\netcoreapp2.0\SpaASMRBackend.pdb
+D:\sbogu\Documents\Repos\Visual Studio 2017\SpaASMRVers2\backend\SpaASMRBackend\SpaASMRBackend\obj\Debug\netcoreapp2.0\SpaASMRBackend.dll
+D:\sbogu\Documents\Repos\Visual Studio 2017\SpaASMRVers2\backend\SpaASMRBackend\SpaASMRBackend\obj\Debug\netcoreapp2.0\SpaASMRBackend.pdb
